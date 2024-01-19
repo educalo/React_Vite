@@ -1,0 +1,7 @@
+npm create vite@latest
+
+seguir el asistente
+
+cd primer-proyecto
+npm install
+npm run dev
