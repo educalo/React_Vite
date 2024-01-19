@@ -6,7 +6,9 @@ NOTA: Vite es una herramienta asociada a React que permite crear un proyecto de 
 2.- seguir el asistente
 
 3.- cd primer-proyecto
+
 4.- npm install
+
 5.- npm run dev
 
 # React + TypeScript + Vite
