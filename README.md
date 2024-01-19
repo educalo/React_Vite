@@ -1,3 +1,14 @@
+# Notas
+NOTA: Vite es una herramienta asociada a React que permite crear un proyecto de React mucho mas rápido.
+
+npm create vite@latest
+
+seguir el asistente
+
+cd primer-proyecto
+npm install
+npm run dev
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
